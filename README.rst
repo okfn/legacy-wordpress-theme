@@ -1,5 +1,10 @@
++---+------------------------------------------------------------------------------------------------------------------+
+| ❗ | This theme is for legacy OKFN wordpress sites. For new sites, please use https://github.com/okfn/wordpress-theme |
++---+------------------------------------------------------------------------------------------------------------------+
+
+
 =================
-OKFN Master Theme
+OKFN Legacy Theme
 =================
 
 This is a theme based on the BuddyPress bp-default theme.
